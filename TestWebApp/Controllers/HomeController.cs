@@ -24,7 +24,23 @@ namespace TestWebApp.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            bool a = false;
+            if(a)
+            {
+                string s = "";
+            }
+
+            int i, j = 0;
+            for (int i = 0; i < length; j++)
+            {
+
+            }
             return View();
         }
+    }
+
+    public class abcd
+    {
+
     }
 }
