@@ -31,7 +31,7 @@ namespace TestWebApp.Controllers
             }
 
             int i, j = 0;
-            for (int i = 0; i < length; j++)
+            for (i = 0; i < length; j++)
             {
 
             }
